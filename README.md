@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/midhun kumar n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun kumar n" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/midhun-kumar-n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="midhun-kumar-n" height="30" width="40" /></a>
 <a href="https://instagram.com/_itz._midhun_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_itz._midhun_" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/midhunkumarn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="midhunkumarn" height="30" width="40" /></a>
 <a href="https://discord.gg/MIDHUN KUMAR N#9247" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="MIDHUN KUMAR N#9247" height="30" width="40" /></a>
